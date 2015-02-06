@@ -17,8 +17,8 @@ hi CursorLine ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=N
 hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#3c3d37 gui=NONE
 hi LineNr ctermfg=102 ctermbg=237 cterm=NONE guifg=#90908a guibg=#3c3d37 gui=NONE
-" hi CursorLineNr ctermfg=81 ctermbg=237 cterm=NONE guifg=#66d9ef guibg=#3c3d37 gui=NONE
-hi CursorLineNr ctermfg=Yellow ctermbg=237 cterm=NONE guifg=#66d9ef guibg=#3c3d37 gui=NONE
+hi CursorLineNr ctermfg=81 ctermbg=237 cterm=NONE guifg=#66d9ef guibg=#3c3d37 gui=NONE
+" hi CursorLineNr ctermfg=Yellow ctermbg=237 cterm=NONE guifg=#66d9ef guibg=#3c3d37 gui=NONE
 " hi CursorLineNr ctermfg=Yellow ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=#3c3d37 gui=NONE
 hi VertSplit ctermfg=241 ctermbg=241 cterm=NONE guifg=#64645e guibg=#64645e gui=NONE
 hi MatchParen ctermfg=197 ctermbg=NONE cterm=underline guifg=#f92672 guibg=NONE gui=underline
